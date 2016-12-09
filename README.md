@@ -1,5 +1,5 @@
 # Programadores Brasil ®
 **Repositório oficial de Assuntos da Comunidade**
 
-1. [Reglas Oficiales de la Comunidad]()
-2. [Pauta de Ofertas Laborales de la Comunidad]()
+1. [Regras oficiais da Comunidade]()
+2. [Normas e Orientações da Comunidade]()
